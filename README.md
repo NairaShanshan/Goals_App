@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://github.com/user-attachments/assets/63d47d87-81e8-40f8-91fd-78c65f129ff2
+
 Goals App is a simple and intuitive mobile application designed to help users manage their daily or long-term goals.
 It provides a clean interface to add, view, and delete goals with persistent local storage.
 
