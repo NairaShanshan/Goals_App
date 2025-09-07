@@ -8,23 +8,17 @@ Goals App is a simple and intuitive mobile application designed to help users ma
 It provides a clean interface to add, view, and delete goals with persistent local storage.
 
 
-✨ Features
+## ✨ Features  
+- **Add Goals**: Easily add a new goal by tapping the **Floating Action Button**, which opens a dialog with a text field and an add button.  
+- **Delete Goals**: Remove any goal by tapping on it, which opens a confirmation dialog with a delete button.  
+- **Local Storage**: All goals are stored locally using **SQLite (sqflite)**, ensuring data persistence even after restarting the app.  
+- **State Management**: Built with **BLoC & Cubit** for efficient and scalable state management.  
 
-Add Goals: Easily add a new goal by tapping the Floating Action Button, which opens a dialog with a text field and an add button.
+## 🛠️ Tech Stack  
+- **Flutter**  
+- **BLoC / Cubit**  
+- **sqflite**
 
-Delete Goals: Remove any goal by tapping on it, which opens a confirmation dialog with a delete button.
-
-Local Storage: All goals are stored locally using SQLite (sqflite), ensuring data persistence even after restarting the app.
-
-State Management: Built with BLoC & Cubit for efficient and scalable state management.
-
-🛠️ Tech Stack
-
-Flutter
-
-BLoC / Cubit
-
-sqflite
 
 
 
